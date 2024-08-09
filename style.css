@@ -1,0 +1,35 @@
+/* Line-Height */
+body {
+    line-height: 1.6;
+}
+/* Spacing Letters */
+h1, h2, h3 {
+    letter-spacing: 0.05em;
+}
+/* Text Transform */
+h1 {
+    text-transform: uppercase;
+}
+h2 {
+    text-transform: uppercase;
+}
+h3 {
+    text-transform: capitalize;
+}
+/* Text Decoration */
+h2 {
+    text-decoration: underline;
+}
+h3 {
+    text-decoration: overline;
+}
+strong {
+    text-decoration: line-through;
+}
+/* Text Alignment */
+h1, h2, h3{
+    text-align: center;
+}
+p {
+    text-align: justify;
+}
